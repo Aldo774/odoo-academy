@@ -277,4 +277,4 @@ Construa as models Categoria, Filme, OperacaoUnit, OperacaoConj e Cliente
     * Atrasado - quando não há cópias em estoque porém existem cópias alugadas dentro fora do prazo de entrega, neste caso esse status é exclusivo de OperacaoUnit que ainda estão a ser feitas(que ainda não foram criadas).
     * Disponível - quando há cópias em estoque, diponíveis para operações(venda ou aluguel)
     
-*Na documentação oficial há um exemplo de como criar um workflow completo segue o [link](https://www.odoo.com/documentation/8.0/howtos/backend.html#workflows))*
+*Na documentação oficial há um exemplo de como criar um workflow completo segue o [link](https://www.odoo.com/documentation/11.0/howtos/backend.html#workflows))*
